@@ -1,0 +1,6 @@
+﻿FOT-マティス ProN DB <FOT-Matisse ProN DB>
+UDデジタル教科書体 StdN M <UDDigiKyokasho StdN M>
+方正标雅宋_GBK <FZYaSong-R-GBK>
+方正兰亭中粗黑_GBK <FZLanTingHeiS-DB1-GBK>
+微软雅黑 <Microsoft YaHei>
+霞鹜文楷 <LXGW WenKai>
